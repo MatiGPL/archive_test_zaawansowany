@@ -14,10 +14,14 @@ body {
 }
 
 h1, p {
-  color: black;
+  color: white;
   text-align: center;
 }
 
 #text {
   font-size: 1.2em;
+}
+
+#button, #button2, #button3 {
+  cursor: pointer;
 }/*# sourceMappingURL=style.css.map */

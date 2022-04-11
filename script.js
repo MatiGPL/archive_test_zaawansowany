@@ -14,5 +14,10 @@ button.addEventListener("click", () =>{
 });
 
 button2.addEventListener("click", () =>{
+    window.alert('Zadanie wykonał Mateusz Reczek');
+});
+
+button3.addEventListener("click", () =>{
     document.write('<h1>Mateusz Reczek</h1>');
 });
+
